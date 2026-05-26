@@ -147,3 +147,6 @@ Below is an illustration of the cleaned and enriched schema:
 - **Geolocation Lookup**: Integrate MaxMind GeoIP API for live country and city lookup of dynamic IPs.
 - **Deep Anomaly Explanations**: Integrate SHAP (SHapley Additive exPlanations) to show why the Isolation Forest flagged a specific log as anomalous.
 - **Real-Time SMS/Email Alerts**: Hook webhook notifications using Twilio or Slack APIs to notify security analysts when High-severity alerts are triggered.
+
+- ## Local Host link
+- 
